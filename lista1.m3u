@@ -9,4 +9,10 @@ https://tatiana2006.pythonanywhere.com/stream/SUNDANCE?token=12345
 https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT?token=12345
 #EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="http://puntoz.xyz/LOGOS/cinecanal.png" group-title="Peliculas",Cinecanal
 https://tatiana2006.pythonanywhere.com/stream/Imagen?token=12345
+#EXTINF:-1 tvg-id="galavision" tvg-name="GALAVISION" tvg-logo="http://puntoz.xyz/LOGOS/galavision.png" group-title="Entretenimiento",GALAVISION
+https://tatiana2006.pythonanywhere.com/stream/GALAVISION?token=12345
+#EXTINF:-1 tvg-id="univisioneast" tvg-name="UNIVISION EAST" tvg-logo="UNIVISION EAST" group-title="Entretenimiento",UNIVISION EAST
+https://tatiana2006.pythonanywhere.com/stream/UNIVISION EAST?token=12345
+#EXTINF:-1 tvg-id="nbcuniverso" tvg-name="NBC UNIVERSO" tvg-logo="http://puntoz.xyz/LOGOS/UNIVERSO.png" group-title="Entretenimiento",NBC UNIVERSO
+https://tatiana2006.pythonanywhere.com/stream/NBC UNIVERSO?token=12345
 
