@@ -1,11 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="canal5" tvg-logo="" group-title="",canal5
-https://tatiana2006.pythonanywhere.com/stream/canal 5?token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="marivisison" tvg-name="mariavision" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="Religion",mariavision
-https://tatiana2006.pythonanywhere.com/stream/Maria Vision?token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="uj" tvg-name="SUNDANCE" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="Peliculas",SUNDANCE
-https://tatiana2006.pythonanywhere.com/stream/SUNDANCE?token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="paramount" tvg-name="PARAMOUNT" tvg-logo="http://puntoz.xyz/LOGOS/sonychannel.png" group-title="Chile",PARAMOUNT
-https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT?token=mi_contraseña_secreta
-#EXTINF:-1 tvg-id="imagen" tvg-name="Imagen" tvg-logo="http://puntoz.xyz/LOGOS/studiouniversal.png" group-title="Series",Imagen
-https://tatiana2006.pythonanywhere.com/stream/Imagen?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="paramount" tvg-name="paramount" tvg-logo="http://puntoz.xyz/LOGOS/Paramount.png" group-title="Peliculas",paramount
+https://tatiana2006.pythonanywhere.com/stream/canal 5?token=12345
+#EXTINF:-1 tvg-id="tudnusa" tvg-name="TUDN USA" tvg-logo="http://puntoz.xyz/LOGOS/tdn.png" group-title="Deportes",TUDN USA
+https://tatiana2006.pythonanywhere.com/stream/Maria Vision?token=12345
+#EXTINF:-1 tvg-id="telemundomiami" tvg-name="TELEMUNDO MIAMI" tvg-logo="http://puntoz.xyz/LOGOS/Telemundo_New_York_2012.png" group-title="Entretenimiento",TELEMUNDO MIAMI
+https://tatiana2006.pythonanywhere.com/stream/SUNDANCE?token=12345
+#EXTINF:-1 tvg-id="unimasmiami" tvg-name="UNIMAS MIAMI" tvg-logo="http://puntoz.xyz/LOGOS/unimas.png" group-title="Entretenimiento",UNIMAS MIAMI
+https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT?token=12345
+#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="http://puntoz.xyz/LOGOS/cinecanal.png" group-title="Peliculas",Cinecanal
+https://tatiana2006.pythonanywhere.com/stream/Imagen?token=12345
+
