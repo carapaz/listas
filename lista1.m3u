@@ -15,7 +15,7 @@ https://tatiana2006.pythonanywhere.com/stream/UNIVISION EAST?token=12345
 https://tatiana2006.pythonanywhere.com/stream/NBC UNIVERSO?token=12345
 #EXTINF:-1 tvg-id="maxlatino" tvg-name="MAX LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/320px-Max_logo.svg.png" group-title="Peliculas",MAX LATINO
 https://tatiana2006.pythonanywhere.com/stream/MAX LATINO?token=12345
-#EXTINF:-1 tvg-id="azteca7" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azteca72024.png/150px-Azteca72024.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azteca72024.png/150px-Azteca72024.png" group-title="Entretenimiento",AZTECA 7
+#EXTINF:-1 tvg-id="azteca7" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azteca72024.png/150px-Azteca72024.png" group-title="Entretenimiento",AZTECA 7
 https://tatiana2006.pythonanywhere.com/stream/AZTECA 7?token=12345
 #EXTINF:-1 tvg-id="cartoon" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon
 https://tatiana2006.pythonanywhere.com/stream/Cartoon?token=12345
@@ -131,7 +131,7 @@ https://tatiana2006.pythonanywhere.com/stream/FOX Sports?token=12345
 https://tatiana2006.pythonanywhere.com/stream/FOX Sports 2?token=12345
 #EXTINF:-1 tvg-id="foxsports3" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/180px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",FOX Sports 3
 https://tatiana2006.pythonanywhere.com/stream/FOX Sports 3?token=12345
-#EXTINF:-1 tvg-id="foxsportspreium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/150px-Fox_Sports_Premium_Argentina_2019.png" group-title="",Fox Sports Premium
+#EXTINF:-1 tvg-id="foxsportspreium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/150px-Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
 https://tatiana2006.pythonanywhere.com/stream/Fox Sports Premium?token=12345
 #EXTINF:-1 tvg-id="caracolinternacional" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caracol_Internacional_2023.png/190px-Caracol_Internacional_2023.png" group-title="Entretenimiento",Caracol Internacional
 https://tatiana2006.pythonanywhere.com/stream/Caracol Internacional?token=12345
@@ -151,4 +151,12 @@ https://tatiana2006.pythonanywhere.com/stream/History 2?token=12345
 https://tatiana2006.pythonanywhere.com/stream/RT Español?token=12345
 #EXTINF:-1 tvg-id="goltv" tvg-name="GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="Deportes",GolTV
 https://tatiana2006.pythonanywhere.com/stream/GolTV?token=12345
+#EXTINF:-1 tvg-id="lared" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="Entretenimiento",La Red
+https://tatiana2006.pythonanywhere.com/stream/La Red?token=12345
+#EXTINF:-1 tvg-id="megatv" tvg-name="Mega TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/145px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega TV
+https://tatiana2006.pythonanywhere.com/stream/Mega TV?token=12345
+#EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/200px-Emblema_del_Canal_13_Chile.svg.png" group-title="Entretenimiento",Canal 13
+https://tatiana2006.pythonanywhere.com/stream/Canal 13?token=12345
+#EXTINF:-1 tvg-id="chilevision" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Entretenimiento",Chilevision
+https://tatiana2006.pythonanywhere.com/stream/Chilevision?token=12345
 
