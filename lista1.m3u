@@ -157,7 +157,17 @@ https://tatiana2006.pythonanywhere.com/stream/Mega%20TV?token=12345
 https://tatiana2006.pythonanywhere.com/stream/Canal%2013?token=12345
 #EXTINF:-1 tvg-id="chilevision" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Entretenimiento",Chilevision
 https://tatiana2006.pythonanywhere.com/stream/Chilevision?token=12345
-#EXTINF:-1 tvg-id="tdn" tvg-name="TDN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/azteca-mx.png" group-title="Deportes",TDN
+#EXTINF:-1 tvg-id="tdn" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Deportes",TDN
 https://tatiana2006.pythonanywhere.com/stream/TDN?token=12345
-
-
+#EXTINF:-1 tvg-id="directvsports" tvg-name="Directv Sports" tvg-logo="https://od.lk/s/MzlfNDMzNjMzNTJf/dsportsco.png" group-title="Deportes",Directv Sports
+https://tatiana2006.pythonanywhere.com/stream/Directv%20Sports?token=12345
+#EXTINF:-1 tvg-id="directvsports2" tvg-name="Directv Sports 2" tvg-logo="https://od.lk/s/MzlfNDMzNjMzNDZf/dsports2latam.png" group-title="Deportes",Directv Sports 2
+https://tatiana2006.pythonanywhere.com/stream/Directv%20Sports%202?token=12345
+#EXTINF:-1 tvg-id="directvsports+" tvg-name="Directv Sports +" tvg-logo="https://od.lk/s/MzlfNDMzNjMzNTRf/dsportspluslatam.png" group-title="Deportes",Directv Sports +
+https://tatiana2006.pythonanywhere.com/stream/Directv%20Sports%20%2B?token=12345
+#EXTINF:-1 tvg-id="nickes" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="España",Nick
+https://tatiana2006.pythonanywhere.com/stream/Nickes?token=12345
+#EXTINF:-1 tvg-id="eurosports2" tvg-name="Eurosports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="Deportes",Eurosports 2
+https://tatiana2006.pythonanywhere.com/stream/Eurosports%202?token=12345
+#EXTINF:-1 tvg-id="nova" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/200px-Nova.svg.png" group-title="España",Nova
+https://tatiana2006.pythonanywhere.com/stream/Nova?token=12345
