@@ -1,173 +1,901 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="telemundomiami" tvg-name="TELEMUNDO MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",TELEMUNDO MIAMI
-https://tatiana2006.pythonanywhere.com/stream/SUNDANCE?token=12345
-#EXTINF:-1 tvg-id="unimasmiami" tvg-name="UNIMAS MIAMI" tvg-logo="http://puntoz.xyz/LOGOS/unimas.png" group-title="Entretenimiento",UNIMAS MIAMI
-https://tatiana2006.pythonanywhere.com/stream/PARAMOUNT?token=12345
-#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="http://puntoz.xyz/LOGOS/cinecanal.png" group-title="Peliculas",Cinecanal
-https://tatiana2006.pythonanywhere.com/stream/Imagen?token=12345
-#EXTINF:-1 tvg-id="galavision" tvg-name="GALAVISION" tvg-logo="http://puntoz.xyz/LOGOS/galavision.png" group-title="Entretenimiento",GALAVISION
-https://tatiana2006.pythonanywhere.com/stream/GALAVISION?token=12345
-#EXTINF:-1 tvg-id="univisioneast" tvg-name="UNIVISION EAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/150px-Logo_Univision_2019.svg.png" group-title="Entretenimiento",UNIVISION EAST
-https://tatiana2006.pythonanywhere.com/stream/UNIVISION%20EAST?token=12345
-#EXTINF:-1 tvg-id="nbcuniverso" tvg-name="NBC UNIVERSO" tvg-logo="http://puntoz.xyz/LOGOS/UNIVERSO.png" group-title="Entretenimiento",NBC UNIVERSO
-https://tatiana2006.pythonanywhere.com/stream/NBC%20UNIVERSO?token=12345
-#EXTINF:-1 tvg-id="maxlatino" tvg-name="MAX LATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/320px-Max_logo.svg.png" group-title="Peliculas",MAX LATINO
-https://tatiana2006.pythonanywhere.com/stream/MAX%20LATINO?token=12345
-#EXTINF:-1 tvg-id="azteca7" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Azteca72024.png/150px-Azteca72024.png" group-title="Entretenimiento",AZTECA 7
-https://tatiana2006.pythonanywhere.com/stream/AZTECA%207?token=12345
-#EXTINF:-1 tvg-id="cartoon" tvg-name="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantiles",Cartoon
-https://tatiana2006.pythonanywhere.com/stream/Cartoon?token=12345
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/259px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantiles",Cartoonito
-https://tatiana2006.pythonanywhere.com/stream/Cartoonito?token=12345
-#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="Peliculas",Cinemax
-https://tatiana2006.pythonanywhere.com/stream/Cinemax?token=12345
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN
-https://tatiana2006.pythonanywhere.com/stream/CNN?token=12345
-#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/170px-2019_Discovery_logo.svg.png" group-title="Entretenimiento",Discovery Channel
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Channel?token=12345
-#EXTINF:-1 tvg-id="discoveryhomehealt" tvg-name="Discovery Home Healt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/150px-Discovery_Home_%26_Health_logo.svg.png" group-title="Entretenimiento",Discovery Home Healt
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Home%20Healt?token=12345
-#EXTINF:-1 tvg-id="discoveryinvestigation" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Discovery Investigation
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Investigation?token=12345
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/200px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantiles",Discovery Kids
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Kids?token=12345
-#EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/320px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entretenimiento",Discovery Theater
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Theater?token=12345
-#EXTINF:-1 tvg-id="discoverytlc" tvg-name="Discovery TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png" group-title="Entretenimiento",Discovery TLC
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20TLC?token=12345
-#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Entretenimiento",Discovery Turbo
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Turbo?token=12345
-#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/320px-World_Discovery_HD_logo.svg.png" group-title="Entretenimiento",Discovery World
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20World?token=12345
-#EXTINF:-1 tvg-id="disney" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/170px-2019_Disney_Channel_logo.svg.png" group-title="Infantiles",Disney
-https://tatiana2006.pythonanywhere.com/stream/Disney%20channel?token=12345
-#EXTINF:-1 tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/200px-Disney_Jr._2024.svg.png" group-title="Infantiles",Disney Junior
-https://tatiana2006.pythonanywhere.com/stream/Disney%20Junior?token=12345
-#EXTINF:-1 tvg-id="fx" tvg-name="Fx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/150px-FX_International_logo.svg.png" group-title="Peliculas",Fx
-https://tatiana2006.pythonanywhere.com/stream/Fx?token=12345
-#EXTINF:-1 tvg-id="gourmet" tvg-name="El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Gourmet_logo.svg/120px-El_Gourmet_logo.svg.png" group-title="Entretenimiento",El Gourmet
-https://tatiana2006.pythonanywhere.com/stream/gourmet?token=12345
-#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/133px-HBO_logo.svg.png" group-title="Peliculas",HBO
-https://tatiana2006.pythonanywhere.com/stream/HBO?token=12345
-#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="Peliculas",HBO2
-https://tatiana2006.pythonanywhere.com/stream/HBO2?token=12345
-#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="Peliculas",HBO Family
-https://tatiana2006.pythonanywhere.com/stream/HBO%20Family?token=12345
-#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="Peliculas",HBO Plus
-https://tatiana2006.pythonanywhere.com/stream/HBO%20Plus?token=12345
-#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="Peliculas",HBO Signature
-https://tatiana2006.pythonanywhere.com/stream/HBO%20Signature?token=12345
-#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="Peliculas",HBO Xtreme
-https://tatiana2006.pythonanywhere.com/stream/HBO%20Xtreme?token=12345
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="Entretenimiento",HGTV
-https://tatiana2006.pythonanywhere.com/stream/HGTV?token=12345
-#EXTINF:-1 tvg-id="history" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/100px-History_%282021%29.svg.png" group-title="Entretenimiento",History Channel
-https://tatiana2006.pythonanywhere.com/stream/History%20Channel?token=12345
-#EXTINF:-1 tvg-id="estrellas" tvg-name="Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento",Canal de las Estrellas
-https://tatiana2006.pythonanywhere.com/stream/Canal%20de%20las%20Estrellas?token=12345
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="Entretenimiento",Discovery Science
-https://tatiana2006.pythonanywhere.com/stream/Discovery%20Science?token=12345
-#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png" group-title="Peliculas",HBO Mundi
-https://tatiana2006.pythonanywhere.com/stream/HBO%20Mundi?token=12345
-#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/130px-HBO_Pop.svg.png" group-title="Peliculas",HBO Pop
-https://tatiana2006.pythonanywhere.com/stream/HBO%20Pop?token=12345
-#EXTINF:-1 tvg-id="natgeo" tvg-name="Natgeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entretenimiento",Natgeo
-https://tatiana2006.pythonanywhere.com/stream/Natgeo?token=12345
-#EXTINF:-1 tvg-id="sonymovies" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Peliculas",Sony Movies
-https://tatiana2006.pythonanywhere.com/stream/Sony%20Movies?token=12345
-#EXTINF:-1 tvg-id="starchnne" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/150px-Star_Channel_2020.svg.png" group-title="Entretenimiento",Star Channel
-https://tatiana2006.pythonanywhere.com/stream/Star%20Channel?token=12345
-#EXTINF:-1 tvg-id="tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/200px-Logo_de_Tooncast.svg.png" group-title="Infantiles",Tooncast
-https://tatiana2006.pythonanywhere.com/stream/Tooncast?token=12345
-#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/125px-MTV_2021_%28brand_version%29.svg.png" group-title="Musica",MTV
-https://tatiana2006.pythonanywhere.com/stream/MTV?token=12345
-#EXTINF:-1 tvg-id="mtv80" tvg-name="MTV 80S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/150px-MTV_80s_2022.png" group-title="Musica",MTV 80S
-https://tatiana2006.pythonanywhere.com/stream/MTV%2080S?token=12345
-#EXTINF:-1 tvg-id="nick" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantiles",Nick
-https://tatiana2006.pythonanywhere.com/stream/Nick?token=12345
-#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/180px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Infantiles",Nick Jr
-https://tatiana2006.pythonanywhere.com/stream/Nick%20Jr?token=12345
-#EXTINF:-1 tvg-id="paramount" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/250px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="Peliculas",Paramount
-https://tatiana2006.pythonanywhere.com/stream/Paramount?token=12345
-#EXTINF:-1 tvg-id="sony" tvg-name="Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="Entretenimiento",Sony
-https://tatiana2006.pythonanywhere.com/stream/Sony?token=12345
-#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1518.png" group-title="Peliculas",Space
-https://tatiana2006.pythonanywhere.com/stream/Space?token=12345
-#EXTINF:-1 tvg-id="studiouniversal" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/293px-StudioUniversal2016.png" group-title="Peliculas",Studio Universal
-https://tatiana2006.pythonanywhere.com/stream/Studio%20Universal?token=12345
-#EXTINF:-1 tvg-id="usa" tvg-name="USA Network Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento",USA Network Latino
-https://tatiana2006.pythonanywhere.com/stream/USA%20Network%20Latino?token=12345
-#EXTINF:-1 tvg-id="tcm" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/120px-TCM_Latam_logo.svg.png" group-title="Entretenimiento",TCM
-https://tatiana2006.pythonanywhere.com/stream/TCM?token=12345
-#EXTINF:-1 tvg-id="telemundointernacional" tvg-name="Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo Internacional
-https://tatiana2006.pythonanywhere.com/stream/Telemundo%20Internacional?token=12345
-#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Peliculas",TNT
-https://tatiana2006.pythonanywhere.com/stream/TNT?token=12345
-#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series
-https://tatiana2006.pythonanywhere.com/stream/TNT%20Series?token=12345
-#EXTINF:-1 tvg-id="universalchannel" tvg-name="Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/230px-Universal_TV_logo.svg.png" group-title="Peliculas",Universal Channel
-https://tatiana2006.pythonanywhere.com/stream/Universal%20Channel?token=12345
-#EXTINF:-1 tvg-id="universalcinema" tvg-name="Universal Cinema" tvg-logo="https://www.universalplus.com/files/channels/731381553.png" group-title="Peliculas",Universal Cinema
-https://tatiana2006.pythonanywhere.com/stream/Universal%20Cinema?token=12345
-#EXTINF:-1 tvg-id="universalcomedy" tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Universal_Comedy_2021.png/revision/latest?cb=20220102015318&path-prefix=es" group-title="Peliculas",Universal Comedy
-https://tatiana2006.pythonanywhere.com/stream/Universal%20Comedy?token=12345
-#EXTINF:-1 tvg-id="universalcrime" tvg-name="Universal Crime" tvg-logo="https://i.imgur.com/okjyXsZ.png" group-title="Peliculas",Universal Crime
-https://tatiana2006.pythonanywhere.com/stream/Universal%20Crime?token=12345
-#EXTINF:-1 tvg-id="warner" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entretenimiento",Warner
-https://tatiana2006.pythonanywhere.com/stream/Warner?token=12345
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
-https://tatiana2006.pythonanywhere.com/stream/ESPN?token=12345
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-https://tatiana2006.pythonanywhere.com/stream/ESPN%202?token=12345
-#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3
-https://tatiana2006.pythonanywhere.com/stream/ESPN%203?token=12345
-#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/190px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-https://tatiana2006.pythonanywhere.com/stream/ESPN%204?token=12345
-#EXTINF:-1 tvg-id="foxsports" tvg-name="FOX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/150px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX Sports
-https://tatiana2006.pythonanywhere.com/stream/FOX%20Sports?token=12345
-#EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/180px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",FOX Sports 2
-https://tatiana2006.pythonanywhere.com/stream/FOX%20Sports%202?token=12345
-#EXTINF:-1 tvg-id="foxsports3" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/180px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",FOX Sports 3
-https://tatiana2006.pythonanywhere.com/stream/FOX%20Sports%203?token=12345
-#EXTINF:-1 tvg-id="foxsportspreium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/150px-Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
-https://tatiana2006.pythonanywhere.com/stream/Fox%20Sports%20Premium?token=12345
-#EXTINF:-1 tvg-id="caracolinternacional" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caracol_Internacional_2023.png/190px-Caracol_Internacional_2023.png" group-title="Entretenimiento",Caracol Internacional
-https://tatiana2006.pythonanywhere.com/stream/Caracol%20Internacional?token=12345
-#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entretenimiento",AMC
-https://tatiana2006.pythonanywhere.com/stream/AMC?token=12345
-#EXTINF:-1 tvg-id="tvchile" tvg-name="TV Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/190px-Logotipo_de_TV_Chile.svg.png" group-title="Entretenimiento",TV Chile
-https://tatiana2006.pythonanywhere.com/stream/TV%20Chile?token=12345
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Entretenimiento",Animal Planet
-https://tatiana2006.pythonanywhere.com/stream/Animal%20Planet?token=12345
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento",AXN
-https://tatiana2006.pythonanywhere.com/stream/AXN?token=12345
-#EXTINF:-1 tvg-id="ae" tvg-name="A E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A E
-https://tatiana2006.pythonanywhere.com/stream/A%20E?token=12345
-#EXTINF:-1 tvg-id="h2" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Entretenimiento",History 2
-https://tatiana2006.pythonanywhere.com/stream/History%202?token=12345
-#EXTINF:-1 tvg-id="rt" tvg-name="RT Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title="Noticias",RT Español
-https://tatiana2006.pythonanywhere.com/stream/RT%20Espa%C3%B1ol?token=12345
-#EXTINF:-1 tvg-id="goltv" tvg-name="GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/320px-GolTV_logo.svg.png" group-title="Deportes",GolTV
-https://tatiana2006.pythonanywhere.com/stream/GolTV?token=12345
-#EXTINF:-1 tvg-id="lared" tvg-name="La Red" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/200px-La_Red_Logotipo_2021.svg.png" group-title="Entretenimiento",La Red
-https://tatiana2006.pythonanywhere.com/stream/La%20Red?token=12345
-#EXTINF:-1 tvg-id="megatv" tvg-name="Mega TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/145px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Entretenimiento",Mega TV
-https://tatiana2006.pythonanywhere.com/stream/Mega%20TV?token=12345
-#EXTINF:-1 tvg-id="canal13" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/200px-Emblema_del_Canal_13_Chile.svg.png" group-title="Entretenimiento",Canal 13
-https://tatiana2006.pythonanywhere.com/stream/Canal%2013?token=12345
-#EXTINF:-1 tvg-id="chilevision" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/250px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Entretenimiento",Chilevision
-https://tatiana2006.pythonanywhere.com/stream/Chilevision?token=12345
-#EXTINF:-1 tvg-id="tdn" tvg-name="TDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/200px-TUDN_Logo.svg.png" group-title="Deportes",TDN
-https://tatiana2006.pythonanywhere.com/stream/TDN?token=12345
-#EXTINF:-1 tvg-id="directvsports" tvg-name="Directv Sports" tvg-logo="https://od.lk/s/MzlfNDMzNjMzNTJf/dsportsco.png" group-title="Deportes",Directv Sports
-https://tatiana2006.pythonanywhere.com/stream/Directv%20Sports?token=12345
-#EXTINF:-1 tvg-id="directvsports2" tvg-name="Directv Sports 2" tvg-logo="https://od.lk/s/MzlfNDMzNjMzNDZf/dsports2latam.png" group-title="Deportes",Directv Sports 2
-https://tatiana2006.pythonanywhere.com/stream/Directv%20Sports%202?token=12345
-#EXTINF:-1 tvg-id="nickes" tvg-name="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/320px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="España",Nick
-https://tatiana2006.pythonanywhere.com/stream/Nickes?token=12345
-#EXTINF:-1 tvg-id="eurosports2" tvg-name="Eurosports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/250px-Eurosport_2_Logo_2015.svg.png" group-title="Deportes",Eurosports 2
-https://tatiana2006.pythonanywhere.com/stream/Eurosports%202?token=12345
-#EXTINF:-1 tvg-id="nova" tvg-name="Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/200px-Nova.svg.png" group-title="España",Nova
-https://tatiana2006.pythonanywhere.com/stream/Nova?token=12345
-#EXTINF:-1 tvg-id="directvsportsplus" tvg-name="Directv Sports plus" tvg-logo="https://od.lk/s/MzlfNDMzNjMzNTRf/dsportspluslatam.png" group-title="Deportes",Directv Sports plus
-https://tatiana2006.pythonanywhere.com/stream/directvsportsplus?token=12345
+#EXTINF:-1 tvg-id="" tvg-name="231 | FOOD NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",231 | FOOD NETWORK
+https://tatiana2006.pythonanywhere.com/stream/231%20%7C%20FOOD%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="232 | COOKING" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",232 | COOKING
+https://tatiana2006.pythonanywhere.com/stream/232%20%7C%20COOKING?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="233 | GAME SHOW NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",233 | GAME SHOW NETWORK
+https://tatiana2006.pythonanywhere.com/stream/233%20%7C%20GAME%20SHOW%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="236 | E! ENTERTEINMENT" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",236 | E! ENTERTEINMENT
+https://tatiana2006.pythonanywhere.com/stream/236%20%7C%20E%21%20ENTERTEINMENT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="238 | REELZ" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",238 | REELZ
+https://tatiana2006.pythonanywhere.com/stream/238%20%7C%20REELZ?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="239 | SUNDANCE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",239 | SUNDANCE
+https://tatiana2006.pythonanywhere.com/stream/239%20%7C%20SUNDANCE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="241 | PARAMOUNT" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",241 | PARAMOUNT
+https://tatiana2006.pythonanywhere.com/stream/241%20%7C%20PARAMOUNT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="242 | USA NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",242 | USA NETWORK
+https://tatiana2006.pythonanywhere.com/stream/242%20%7C%20USA%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="245 | TNT EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",245 | TNT EAST
+https://tatiana2006.pythonanywhere.com/stream/245%20%7C%20TNT%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="246 | TRUTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",246 | TRUTV
+https://tatiana2006.pythonanywhere.com/stream/246%20%7C%20TRUTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="247| TBS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",247| TBS
+https://tatiana2006.pythonanywhere.com/stream/247%7C%20TBS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="248 | FX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",248 | FX
+https://tatiana2006.pythonanywhere.com/stream/248%20%7C%20FX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="249 | COMEDY CENTRAL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",249 | COMEDY CENTRAL
+https://tatiana2006.pythonanywhere.com/stream/249%20%7C%20COMEDY%20CENTRAL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="254 | AMC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",254 | AMC
+https://tatiana2006.pythonanywhere.com/stream/254%20%7C%20AMC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="258 | FOX MOVIES (FXM)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",258 | FOX MOVIES (FXM)
+https://tatiana2006.pythonanywhere.com/stream/258%20%7C%20FOX%20MOVIES%20%28FXM%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="265 | A&E" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",265 | A&E
+https://tatiana2006.pythonanywhere.com/stream/265%20%7C%20A%26E?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="269 | HISTORY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",269 | HISTORY
+https://tatiana2006.pythonanywhere.com/stream/269%20%7C%20HISTORY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="276 | NATGEO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",276 | NATGEO
+https://tatiana2006.pythonanywhere.com/stream/276%20%7C%20NATGEO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="277 | TRAVEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",277 | TRAVEL
+https://tatiana2006.pythonanywhere.com/stream/277%20%7C%20TRAVEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="278 | DISCOVERY CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",278 | DISCOVERY CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/278%20%7C%20DISCOVERY%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="280 | TLC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",280 | TLC
+https://tatiana2006.pythonanywhere.com/stream/280%20%7C%20TLC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="282 | ANIMAL PLANET" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",282 | ANIMAL PLANET
+https://tatiana2006.pythonanywhere.com/stream/282%20%7C%20ANIMAL%20PLANET?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="283 | NATGEO WILD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",283 | NATGEO WILD
+https://tatiana2006.pythonanywhere.com/stream/283%20%7C%20NATGEO%20WILD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="284 | DISCOVERY SCIENCE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",284 | DISCOVERY SCIENCE
+https://tatiana2006.pythonanywhere.com/stream/284%20%7C%20DISCOVERY%20SCIENCE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="285 | DISCOVERY INVESTIGATION ID" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",285 | DISCOVERY INVESTIGATION ID
+https://tatiana2006.pythonanywhere.com/stream/285%20%7C%20DISCOVERY%20INVESTIGATION%20ID?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="289 | DISNEY JR" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",289 | DISNEY JR
+https://tatiana2006.pythonanywhere.com/stream/289%20%7C%20DISNEY%20JR?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="290 | DISNEY CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",290 | DISNEY CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/290%20%7C%20DISNEY%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="292 | DISNEY XD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",292 | DISNEY XD
+https://tatiana2006.pythonanywhere.com/stream/292%20%7C%20DISNEY%20XD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="295 | UNIVERSAL KIDS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",295 | UNIVERSAL KIDS
+https://tatiana2006.pythonanywhere.com/stream/295%20%7C%20UNIVERSAL%20KIDS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="296 | CARTOON NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",296 | CARTOON NETWORK
+https://tatiana2006.pythonanywhere.com/stream/296%20%7C%20CARTOON%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="311 | FREEFORM" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",311 | FREEFORM
+https://tatiana2006.pythonanywhere.com/stream/311%20%7C%20FREEFORM?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="312 | HALLMARK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",312 | HALLMARK
+https://tatiana2006.pythonanywhere.com/stream/312%20%7C%20HALLMARK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="326 | GREAT AMERICAN FAMILY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",326 | GREAT AMERICAN FAMILY
+https://tatiana2006.pythonanywhere.com/stream/326%20%7C%20GREAT%20AMERICAN%20FAMILY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="402 | UNIVISION EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",402 | UNIVISION EAST
+https://tatiana2006.pythonanywhere.com/stream/402%20%7C%20UNIVISION%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="408 | UNIMAS EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",408 | UNIMAS EAST
+https://tatiana2006.pythonanywhere.com/stream/408%20%7C%20UNIMAS%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="410 | NBC UNIVERSO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",410 | NBC UNIVERSO
+https://tatiana2006.pythonanywhere.com/stream/410%20%7C%20NBC%20UNIVERSO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="464 | TUDN USA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",464 | TUDN USA
+https://tatiana2006.pythonanywhere.com/stream/464%20%7C%20TUDN%20USA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="618 | FOX SPORTS 2 (FS2)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",618 | FOX SPORTS 2 (FS2)
+https://tatiana2006.pythonanywhere.com/stream/618%20%7C%20FOX%20SPORTS%202%20%28FS2%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="237 | BRAVO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",237 | BRAVO
+https://tatiana2006.pythonanywhere.com/stream/237%20%7C%20BRAVO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="506 | HBO COMEDY EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",506 | HBO COMEDY EAST
+https://tatiana2006.pythonanywhere.com/stream/506%20%7C%20HBO%20COMEDY%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="206 | ESPN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",206 | ESPN
+https://tatiana2006.pythonanywhere.com/stream/206%20%7C%20ESPN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="209 | ESPN 2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",209 | ESPN 2
+https://tatiana2006.pythonanywhere.com/stream/209%20%7C%20ESPN%202?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="229 | HGTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",229 | HGTV
+https://tatiana2006.pythonanywhere.com/stream/229%20%7C%20HGTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="294 | DISCOVERY FAMILY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",294 | DISCOVERY FAMILY
+https://tatiana2006.pythonanywhere.com/stream/294%20%7C%20DISCOVERY%20FAMILY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="299 | NICKELODEON EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",299 | NICKELODEON EAST
+https://tatiana2006.pythonanywhere.com/stream/299%20%7C%20NICKELODEON%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="288 | PBS KIDS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",288 | PBS KIDS
+https://tatiana2006.pythonanywhere.com/stream/288%20%7C%20PBS%20KIDS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="340 | AXSTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",340 | AXSTV
+https://tatiana2006.pythonanywhere.com/stream/340%20%7C%20AXSTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="301 | NICK JR." tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",301 | NICK JR.
+https://tatiana2006.pythonanywhere.com/stream/301%20%7C%20NICK%20JR.?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="304 | TV LAND" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",304 | TV LAND
+https://tatiana2006.pythonanywhere.com/stream/304%20%7C%20TV%20LAND?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="466 | ESPN DEPORTES HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",466 | ESPN DEPORTES HD
+https://tatiana2006.pythonanywhere.com/stream/466%20%7C%20ESPN%20DEPORTES%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="335 | VH1" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",335 | VH1
+https://tatiana2006.pythonanywhere.com/stream/335%20%7C%20VH1?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="405 | MEGATV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",405 | MEGATV
+https://tatiana2006.pythonanywhere.com/stream/405%20%7C%20MEGATV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="404 | GALAVISION" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",404 | GALAVISION
+https://tatiana2006.pythonanywhere.com/stream/404%20%7C%20GALAVISION?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="519 | ACTION MAX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",519 | ACTION MAX
+https://tatiana2006.pythonanywhere.com/stream/519%20%7C%20ACTION%20MAX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="525 | STARZ EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",525 | STARZ EAST
+https://tatiana2006.pythonanywhere.com/stream/525%20%7C%20STARZ%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="286 | DESTINATION AMERICA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",286 | DESTINATION AMERICA
+https://tatiana2006.pythonanywhere.com/stream/286%20%7C%20DESTINATION%20AMERICA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="515 | CINEMAX EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",515 | CINEMAX EAST
+https://tatiana2006.pythonanywhere.com/stream/515%20%7C%20CINEMAX%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="521 | MOVIEMAX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",521 | MOVIEMAX
+https://tatiana2006.pythonanywhere.com/stream/521%20%7C%20MOVIEMAX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="261 | DISCOVERY LIFE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",261 | DISCOVERY LIFE
+https://tatiana2006.pythonanywhere.com/stream/261%20%7C%20DISCOVERY%20LIFE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="382 | COMEDY TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",382 | COMEDY TV
+https://tatiana2006.pythonanywhere.com/stream/382%20%7C%20COMEDY%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="251 | OXYGEN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",251 | OXYGEN
+https://tatiana2006.pythonanywhere.com/stream/251%20%7C%20OXYGEN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="603 | COWBOY CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",603 | COWBOY CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/603%20%7C%20COWBOY%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="208 | ESPN U" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",208 | ESPN U
+https://tatiana2006.pythonanywhere.com/stream/208%20%7C%20ESPN%20U?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="256 | TURNER CLASSICS MOVIES (TCM)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",256 | TURNER CLASSICS MOVIES (TCM)
+https://tatiana2006.pythonanywhere.com/stream/256%20%7C%20TURNER%20CLASSICS%20MOVIES%20%28TCM%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="332 | MTV2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",332 | MTV2
+https://tatiana2006.pythonanywhere.com/stream/332%20%7C%20MTV2?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="331 | MTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",331 | MTV
+https://tatiana2006.pythonanywhere.com/stream/331%20%7C%20MTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="303 | TEENNICK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",303 | TEENNICK
+https://tatiana2006.pythonanywhere.com/stream/303%20%7C%20TEENNICK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="302 | NICKTOONS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",302 | NICKTOONS
+https://tatiana2006.pythonanywhere.com/stream/302%20%7C%20NICKTOONS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="218 | GOLF CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",218 | GOLF CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/218%20%7C%20GOLF%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="298 | BOOMERANG" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",298 | BOOMERANG
+https://tatiana2006.pythonanywhere.com/stream/298%20%7C%20BOOMERANG?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="327 | CMT" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",327 | CMT
+https://tatiana2006.pythonanywhere.com/stream/327%20%7C%20CMT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="023 | UNIVISION MIAMI (WLTV)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",023 | UNIVISION MIAMI (WLTV)
+https://tatiana2006.pythonanywhere.com/stream/023%20%7C%20UNIVISION%20MIAMI%20%28WLTV%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="041 | AMERICA TeVe MIAMI" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",041 | AMERICA TeVe MIAMI
+https://tatiana2006.pythonanywhere.com/stream/041%20%7C%20AMERICA%20TeVe%20MIAMI?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="051 | TELEMUNDO MIAMI (WSCV)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",051 | TELEMUNDO MIAMI (WSCV)
+https://tatiana2006.pythonanywhere.com/stream/051%20%7C%20TELEMUNDO%20MIAMI%20%28WSCV%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="069 | UNIMAS MIAMI (WAMI)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",069 | UNIMAS MIAMI (WAMI)
+https://tatiana2006.pythonanywhere.com/stream/069%20%7C%20UNIMAS%20MIAMI%20%28WAMI%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="006 | NBC MIAMI (WTVJ)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",006 | NBC MIAMI (WTVJ)
+https://tatiana2006.pythonanywhere.com/stream/006%20%7C%20NBC%20MIAMI%20%28WTVJ%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="215  | NHL NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",215  | NHL NETWORK
+https://tatiana2006.pythonanywhere.com/stream/215%20%20%7C%20NHL%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="002 | CBS NEW YORK (WCBS)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",002 | CBS NEW YORK (WCBS)
+https://tatiana2006.pythonanywhere.com/stream/002%20%7C%20CBS%20NEW%20YORK%20%28WCBS%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="541 | STARZ ENCORE ACTION" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",541 | STARZ ENCORE ACTION
+https://tatiana2006.pythonanywhere.com/stream/541%20%7C%20STARZ%20ENCORE%20ACTION?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="527 | STARZ KIDS & FAMILY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",527 | STARZ KIDS & FAMILY
+https://tatiana2006.pythonanywhere.com/stream/527%20%7C%20STARZ%20KIDS%20%26%20FAMILY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="436 | DISCOVERY FAMILIA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",436 | DISCOVERY FAMILIA
+https://tatiana2006.pythonanywhere.com/stream/436%20%7C%20DISCOVERY%20FAMILIA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="253 | LIFETIME MOVIES NETWORK (LMN)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",253 | LIFETIME MOVIES NETWORK (LMN)
+https://tatiana2006.pythonanywhere.com/stream/253%20%7C%20LIFETIME%20MOVIES%20NETWORK%20%28LMN%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="004 | NBC NEW YORK (WNBC)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",004 | NBC NEW YORK (WNBC)
+https://tatiana2006.pythonanywhere.com/stream/004%20%7C%20NBC%20NEW%20YORK%20%28WNBC%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="005 | FOX NEW YORK (WNYW)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",005 | FOX NEW YORK (WNYW)
+https://tatiana2006.pythonanywhere.com/stream/005%20%7C%20FOX%20NEW%20YORK%20%28WNYW%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="007 | ABC NEW YORK (WABC)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",007 | ABC NEW YORK (WABC)
+https://tatiana2006.pythonanywhere.com/stream/007%20%7C%20ABC%20NEW%20YORK%20%28WABC%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="553 | THE MOVIE CHANNEL EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",553 | THE MOVIE CHANNEL EAST
+https://tatiana2006.pythonanywhere.com/stream/553%20%7C%20THE%20MOVIE%20CHANNEL%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="355 | CNBC HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",355 | CNBC HD
+https://tatiana2006.pythonanywhere.com/stream/355%20%7C%20CNBC%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="341 | CLEO TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",341 | CLEO TV
+https://tatiana2006.pythonanywhere.com/stream/341%20%7C%20CLEO%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="267 | EARTHX TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",267 | EARTHX TV
+https://tatiana2006.pythonanywhere.com/stream/267%20%7C%20EARTHX%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="359 | FOX BUSINESS NEWS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",359 | FOX BUSINESS NEWS
+https://tatiana2006.pythonanywhere.com/stream/359%20%7C%20FOX%20BUSINESS%20NEWS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="440 | V-Me TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",440 | V-Me TV
+https://tatiana2006.pythonanywhere.com/stream/440%20%7C%20V-Me%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TITAN CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TITAN CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/TITAN%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ITV DEPORTES" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ITV DEPORTES
+https://tatiana2006.pythonanywhere.com/stream/ITV%20DEPORTES?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="308 | LOOLOO KIDS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",308 | LOOLOO KIDS
+https://tatiana2006.pythonanywhere.com/stream/308%20%7C%20LOOLOO%20KIDS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="540 | STARZ ENCORE BLACK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",540 | STARZ ENCORE BLACK
+https://tatiana2006.pythonanywhere.com/stream/540%20%7C%20STARZ%20ENCORE%20BLACK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="542 | STARZ ENCORE FAMILY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",542 | STARZ ENCORE FAMILY
+https://tatiana2006.pythonanywhere.com/stream/542%20%7C%20STARZ%20ENCORE%20FAMILY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="555 | THE MOVIE CHANNEL XTRA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",555 | THE MOVIE CHANNEL XTRA
+https://tatiana2006.pythonanywhere.com/stream/555%20%7C%20THE%20MOVIE%20CHANNEL%20XTRA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="523 | MAX LATINO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",523 | MAX LATINO
+https://tatiana2006.pythonanywhere.com/stream/523%20%7C%20MAX%20LATINO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="599 | HUSTLER" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",599 | HUSTLER
+https://tatiana2006.pythonanywhere.com/stream/599%20%7C%20HUSTLER?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="595 | PENTHOUSE HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",595 | PENTHOUSE HD
+https://tatiana2006.pythonanywhere.com/stream/595%20%7C%20PENTHOUSE%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="573 | SHORTSTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",573 | SHORTSTV
+https://tatiana2006.pythonanywhere.com/stream/573%20%7C%20SHORTSTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="556 | FLIX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",556 | FLIX
+https://tatiana2006.pythonanywhere.com/stream/556%20%7C%20FLIX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="564 | HALLMARK FAMILY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",564 | HALLMARK FAMILY
+https://tatiana2006.pythonanywhere.com/stream/564%20%7C%20HALLMARK%20FAMILY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="385 | HEROES & ICONS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",385 | HEROES & ICONS
+https://tatiana2006.pythonanywhere.com/stream/385%20%7C%20HEROES%20%26%20ICONS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="376 | CRISTIAN TELEVISION NETWORK (CTN)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",376 | CRISTIAN TELEVISION NETWORK (CTN)
+https://tatiana2006.pythonanywhere.com/stream/376%20%7C%20CRISTIAN%20TELEVISION%20NETWORK%20%28CTN%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="377 | TRI-STATE CRISTIAN TELEVISION (TCT)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",377 | TRI-STATE CRISTIAN TELEVISION (TCT)
+https://tatiana2006.pythonanywhere.com/stream/377%20%7C%20TRI-STATE%20CRISTIAN%20TELEVISION%20%28TCT%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="344 | SONLIFE BROADCASTING NETWORK (SBN)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",344 | SONLIFE BROADCASTING NETWORK (SBN)
+https://tatiana2006.pythonanywhere.com/stream/344%20%7C%20SONLIFE%20BROADCASTING%20NETWORK%20%28SBN%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="084 | START TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",084 | START TV
+https://tatiana2006.pythonanywhere.com/stream/084%20%7C%20START%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="306 | MERIT STREET" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",306 | MERIT STREET
+https://tatiana2006.pythonanywhere.com/stream/306%20%7C%20MERIT%20STREET?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="338 | UPTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",338 | UPTV
+https://tatiana2006.pythonanywhere.com/stream/338%20%7C%20UPTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="369 | DAYSTAR" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",369 | DAYSTAR
+https://tatiana2006.pythonanywhere.com/stream/369%20%7C%20DAYSTAR?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="372 | TBN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",372 | TBN
+https://tatiana2006.pythonanywhere.com/stream/372%20%7C%20TBN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="375 | BLOSSOM TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",375 | BLOSSOM TV
+https://tatiana2006.pythonanywhere.com/stream/375%20%7C%20BLOSSOM%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="554 | THE MOVIE CHANNEL WEST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",554 | THE MOVIE CHANNEL WEST
+https://tatiana2006.pythonanywhere.com/stream/554%20%7C%20THE%20MOVIE%20CHANNEL%20WEST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="563 | SO YUMMY!" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",563 | SO YUMMY!
+https://tatiana2006.pythonanywhere.com/stream/563%20%7C%20SO%20YUMMY%21?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="202 | CNN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",202 | CNN
+https://tatiana2006.pythonanywhere.com/stream/202%20%7C%20CNN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Multimedios MTY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 6 Multimedios MTY
+https://tatiana2006.pythonanywhere.com/stream/Canal%206%20Multimedios%20MTY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6+ Multimedios" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 6+ Multimedios
+https://tatiana2006.pythonanywhere.com/stream/Canal%206%2B%20Multimedios?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 MTY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Azteca 7 MTY
+https://tatiana2006.pythonanywhere.com/stream/Azteca%207%20MTY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 Televisa MTY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 8 Televisa MTY
+https://tatiana2006.pythonanywhere.com/stream/Canal%208%20Televisa%20MTY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Capital 21" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Capital 21
+https://tatiana2006.pythonanywhere.com/stream/Capital%2021?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Cartoon
+https://tatiana2006.pythonanywhere.com/stream/Cartoon?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Cartoonito
+https://tatiana2006.pythonanywhere.com/stream/Cartoonito?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Cinecanal
+https://tatiana2006.pythonanywhere.com/stream/Cinecanal?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Cinemax
+https://tatiana2006.pythonanywhere.com/stream/Cinemax?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CNN USA
+https://tatiana2006.pythonanywhere.com/stream/CNN%20USA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CNN Español" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CNN Español
+https://tatiana2006.pythonanywhere.com/stream/CNN%20Espa%C3%B1ol?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Comedy Central
+https://tatiana2006.pythonanywhere.com/stream/Comedy%20Central?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal del Congreso
+https://tatiana2006.pythonanywhere.com/stream/Canal%20del%20Congreso?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",DHE
+https://tatiana2006.pythonanywhere.com/stream/DHE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Channel
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Channel?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Healt" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Home & Healt
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Home%20%26%20Healt?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Investigation
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Investigation?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Kids
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Kids?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Theater
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Theater?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery TLC
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20TLC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Turbo
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Turbo?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery World
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20World?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Disney
+https://tatiana2006.pythonanywhere.com/stream/Disney?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Disney Junior
+https://tatiana2006.pythonanywhere.com/stream/Disney%20Junior?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="E! Entreteinment" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",E! Entreteinment
+https://tatiana2006.pythonanywhere.com/stream/E%21%20Entreteinment?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="El Garage" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",El Garage
+https://tatiana2006.pythonanywhere.com/stream/El%20Garage?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FilmArts" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FilmArts
+https://tatiana2006.pythonanywhere.com/stream/FilmArts?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="El Financiero" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",El Financiero
+https://tatiana2006.pythonanywhere.com/stream/El%20Financiero?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Foodnetwork" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Foodnetwork
+https://tatiana2006.pythonanywhere.com/stream/Foodnetwork?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ForoTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ForoTV
+https://tatiana2006.pythonanywhere.com/stream/ForoTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FX
+https://tatiana2006.pythonanywhere.com/stream/FX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Golf Channel
+https://tatiana2006.pythonanywhere.com/stream/Golf%20Channel?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",El Gourmet
+https://tatiana2006.pythonanywhere.com/stream/El%20Gourmet?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO
+https://tatiana2006.pythonanywhere.com/stream/HBO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO2
+https://tatiana2006.pythonanywhere.com/stream/HBO2?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO Family
+https://tatiana2006.pythonanywhere.com/stream/HBO%20Family?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO Plus
+https://tatiana2006.pythonanywhere.com/stream/HBO%20Plus?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO Signature
+https://tatiana2006.pythonanywhere.com/stream/HBO%20Signature?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO Xtreme
+https://tatiana2006.pythonanywhere.com/stream/HBO%20Xtreme?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (Home Garden Television)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HGTV (Home Garden Television)
+https://tatiana2006.pythonanywhere.com/stream/HGTV%20%28Home%20Garden%20Television%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",History Channel
+https://tatiana2006.pythonanywhere.com/stream/History%20Channel?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Hola TV
+https://tatiana2006.pythonanywhere.com/stream/Hola%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Imagen" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Imagen
+https://tatiana2006.pythonanywhere.com/stream/Imagen?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Aprende Plus" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Aprende Plus
+https://tatiana2006.pythonanywhere.com/stream/Aprende%20Plus?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Justicia TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Justicia TV
+https://tatiana2006.pythonanywhere.com/stream/Justicia%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="KTLA Los Angeles" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",KTLA Los Angeles
+https://tatiana2006.pythonanywhere.com/stream/KTLA%20Los%20Angeles?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal de las Estrellas
+https://tatiana2006.pythonanywhere.com/stream/Canal%20de%20las%20Estrellas?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Lifetime
+https://tatiana2006.pythonanywhere.com/stream/Lifetime?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Mariavision" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Mariavision
+https://tatiana2006.pythonanywhere.com/stream/Mariavision?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Maschic" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Maschic
+https://tatiana2006.pythonanywhere.com/stream/Maschic?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Meganoticias
+https://tatiana2006.pythonanywhere.com/stream/Meganoticias?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Deportes Network" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Azteca Deportes Network
+https://tatiana2006.pythonanywhere.com/stream/Azteca%20Deportes%20Network?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="AyM sports" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",AyM sports
+https://tatiana2006.pythonanywhere.com/stream/AyM%20sports?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Claro Sports
+https://tatiana2006.pythonanywhere.com/stream/Claro%20Sports?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Curiosity Stream Espanol" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Curiosity Stream Espanol
+https://tatiana2006.pythonanywhere.com/stream/Curiosity%20Stream%20Espanol?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Discovery Science
+https://tatiana2006.pythonanywhere.com/stream/Discovery%20Science?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO Mundi
+https://tatiana2006.pythonanywhere.com/stream/HBO%20Mundi?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HBO Pop
+https://tatiana2006.pythonanywhere.com/stream/HBO%20Pop?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="LAS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",LAS
+https://tatiana2006.pythonanywhere.com/stream/LAS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 Multimedios CDMX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 6 Multimedios CDMX
+https://tatiana2006.pythonanywhere.com/stream/Canal%206%20Multimedios%20CDMX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Natgeo
+https://tatiana2006.pythonanywhere.com/stream/Natgeo?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Sony Movies
+https://tatiana2006.pythonanywhere.com/stream/Sony%20Movies?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Star Channel
+https://tatiana2006.pythonanywhere.com/stream/Star%20Channel?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Tooncast
+https://tatiana2006.pythonanywhere.com/stream/Tooncast?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Mexiquense" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Mexiquense
+https://tatiana2006.pythonanywhere.com/stream/Mexiquense?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Milenio
+https://tatiana2006.pythonanywhere.com/stream/Milenio?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MTV
+https://tatiana2006.pythonanywhere.com/stream/MTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MTV 80'S
+https://tatiana2006.pythonanywhere.com/stream/MTV%2080%27S?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MTV Club" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MTV Club
+https://tatiana2006.pythonanywhere.com/stream/MTV%20Club?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MTV Hits
+https://tatiana2006.pythonanywhere.com/stream/MTV%20Hits?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Nick
+https://tatiana2006.pythonanywhere.com/stream/Nick?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Nick Jr.
+https://tatiana2006.pythonanywhere.com/stream/Nick%20Jr.?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Nu9ve" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 9 Nu9ve
+https://tatiana2006.pythonanywhere.com/stream/Canal%209%20Nu9ve?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 Once" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 11 Once
+https://tatiana2006.pythonanywhere.com/stream/Canal%2011%20Once?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Outdoor
+https://tatiana2006.pythonanywhere.com/stream/Outdoor?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Paramount
+https://tatiana2006.pythonanywhere.com/stream/Paramount?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",PX Sports
+https://tatiana2006.pythonanywhere.com/stream/PX%20Sports?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Sony
+https://tatiana2006.pythonanywhere.com/stream/Sony?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Space
+https://tatiana2006.pythonanywhere.com/stream/Space?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Studio Universal
+https://tatiana2006.pythonanywhere.com/stream/Studio%20Universal?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="USA Network Latino" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",USA Network Latino
+https://tatiana2006.pythonanywhere.com/stream/USA%20Network%20Latino?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TCM
+https://tatiana2006.pythonanywhere.com/stream/TCM?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Teenick" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Teenick
+https://tatiana2006.pythonanywhere.com/stream/Teenick?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Teleformula
+https://tatiana2006.pythonanywhere.com/stream/Teleformula?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Telemundo Internacional
+https://tatiana2006.pythonanywhere.com/stream/Telemundo%20Internacional?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo 47 NewYork" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Telemundo 47 NewYork
+https://tatiana2006.pythonanywhere.com/stream/Telemundo%2047%20NewYork?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TNT
+https://tatiana2006.pythonanywhere.com/stream/TNT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TNT Novelas
+https://tatiana2006.pythonanywhere.com/stream/TNT%20Novelas?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TNT Series
+https://tatiana2006.pythonanywhere.com/stream/TNT%20Series?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Adult Swim
+https://tatiana2006.pythonanywhere.com/stream/Adult%20Swim?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Universal Channel
+https://tatiana2006.pythonanywhere.com/stream/Universal%20Channel?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Universal Cinema
+https://tatiana2006.pythonanywhere.com/stream/Universal%20Cinema?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Universal Comedy
+https://tatiana2006.pythonanywhere.com/stream/Universal%20Comedy?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Universal Crime
+https://tatiana2006.pythonanywhere.com/stream/Universal%20Crime?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Universal Premiere
+https://tatiana2006.pythonanywhere.com/stream/Universal%20Premiere?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Universal Reality
+https://tatiana2006.pythonanywhere.com/stream/Universal%20Reality?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",NFL Network
+https://tatiana2006.pythonanywhere.com/stream/NFL%20Network?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Warner
+https://tatiana2006.pythonanywhere.com/stream/Warner?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CBS Bufalo (WIBV)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CBS Bufalo (WIBV)
+https://tatiana2006.pythonanywhere.com/stream/CBS%20Bufalo%20%28WIBV%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="NBC NewYork (WNBC)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",NBC NewYork (WNBC)
+https://tatiana2006.pythonanywhere.com/stream/NBC%20NewYork%20%28WNBC%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Fox 5 NewYork (WNYW)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Fox 5 NewYork (WNYW)
+https://tatiana2006.pythonanywhere.com/stream/Fox%205%20NewYork%20%28WNYW%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Wobi" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Wobi
+https://tatiana2006.pythonanywhere.com/stream/Wobi?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="PBS Bufalo (WNED)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",PBS Bufalo (WNED)
+https://tatiana2006.pythonanywhere.com/stream/PBS%20Bufalo%20%28WNED%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="PIX 11 NewYork (WPIX)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",PIX 11 NewYork (WPIX)
+https://tatiana2006.pythonanywhere.com/stream/PIX%2011%20NewYork%20%28WPIX%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ABC Bufalo (WPLG)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ABC Bufalo (WPLG)
+https://tatiana2006.pythonanywhere.com/stream/ABC%20Bufalo%20%28WPLG%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FOX 7 Miami (WSVN)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FOX 7 Miami (WSVN)
+https://tatiana2006.pythonanywhere.com/stream/FOX%207%20Miami%20%28WSVN%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="WWB (World Wide Baseball)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",WWB (World Wide Baseball)
+https://tatiana2006.pythonanywhere.com/stream/WWB%20%28World%20Wide%20Baseball%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="My9 NewYork (WWOR)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",My9 NewYork (WWOR)
+https://tatiana2006.pythonanywhere.com/stream/My9%20NewYork%20%28WWOR%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ESPN
+https://tatiana2006.pythonanywhere.com/stream/ESPN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ESPN 2
+https://tatiana2006.pythonanywhere.com/stream/ESPN%202?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ESPN 3
+https://tatiana2006.pythonanywhere.com/stream/ESPN%203?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ESPN 4
+https://tatiana2006.pythonanywhere.com/stream/ESPN%204?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FOX Sports
+https://tatiana2006.pythonanywhere.com/stream/FOX%20Sports?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FOX Sports 2
+https://tatiana2006.pythonanywhere.com/stream/FOX%20Sports%202?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FOX Sports 3
+https://tatiana2006.pythonanywhere.com/stream/FOX%20Sports%203?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Fox Sports Premium
+https://tatiana2006.pythonanywhere.com/stream/Fox%20Sports%20Premium?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",NBA TV
+https://tatiana2006.pythonanywhere.com/stream/NBA%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TVC Deportes
+https://tatiana2006.pythonanywhere.com/stream/TVC%20Deportes?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Heraldo TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Heraldo TV
+https://tatiana2006.pythonanywhere.com/stream/Heraldo%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Baby TV
+https://tatiana2006.pythonanywhere.com/stream/Baby%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Fox News
+https://tatiana2006.pythonanywhere.com/stream/Fox%20News?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="iON USA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",iON USA
+https://tatiana2006.pythonanywhere.com/stream/iON%20USA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Unimas 41 New York - WFUT" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Unimas 41 New York - WFUT
+https://tatiana2006.pythonanywhere.com/stream/Unimas%2041%20New%20York%20-%20WFUT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Enlace
+https://tatiana2006.pythonanywhere.com/stream/Enlace?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Fuel" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Fuel
+https://tatiana2006.pythonanywhere.com/stream/Fuel?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Caracol Internacional
+https://tatiana2006.pythonanywhere.com/stream/Caracol%20Internacional?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TV5 Monde
+https://tatiana2006.pythonanywhere.com/stream/TV5%20Monde?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",EUROPA EUROPA
+https://tatiana2006.pythonanywhere.com/stream/EUROPA%20EUROPA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Startve" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Startve
+https://tatiana2006.pythonanywhere.com/stream/Startve?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TV Chile" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TV Chile
+https://tatiana2006.pythonanywhere.com/stream/TV%20Chile?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TVe Internacional" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TVe Internacional
+https://tatiana2006.pythonanywhere.com/stream/TVe%20Internacional?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="DW ESPAÑOL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",DW ESPAÑOL
+https://tatiana2006.pythonanywhere.com/stream/DW%20ESPA%C3%91OL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Arirang
+https://tatiana2006.pythonanywhere.com/stream/Arirang?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="A3Cine" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",A3Cine
+https://tatiana2006.pythonanywhere.com/stream/A3Cine?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Dreamworks
+https://tatiana2006.pythonanywhere.com/stream/Dreamworks?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MeTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MeTV
+https://tatiana2006.pythonanywhere.com/stream/MeTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 5
+https://tatiana2006.pythonanywhere.com/stream/Canal%205?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="A3Series" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",A3Series
+https://tatiana2006.pythonanywhere.com/stream/A3Series?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ADN40" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ADN40
+https://tatiana2006.pythonanywhere.com/stream/ADN40?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Amas" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Amas
+https://tatiana2006.pythonanywhere.com/stream/Amas?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",AMC
+https://tatiana2006.pythonanywhere.com/stream/AMC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Animal Planet
+https://tatiana2006.pythonanywhere.com/stream/Animal%20Planet?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Antena3" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Antena3
+https://tatiana2006.pythonanywhere.com/stream/Antena3?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",AXN
+https://tatiana2006.pythonanywhere.com/stream/AXN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",A&E
+https://tatiana2006.pythonanywhere.com/stream/A%26E?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",AZ Cinema
+https://tatiana2006.pythonanywhere.com/stream/AZ%20Cinema?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="AZ Clic" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",AZ Clic
+https://tatiana2006.pythonanywhere.com/stream/AZ%20Clic?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazon" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",AZ Corazon
+https://tatiana2006.pythonanywhere.com/stream/AZ%20Corazon?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Nacional" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Azteca 7 Nacional
+https://tatiana2006.pythonanywhere.com/stream/Azteca%207%20Nacional?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Azteca Uno
+https://tatiana2006.pythonanywhere.com/stream/Azteca%20Uno?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -1hr" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Azteca Uno -1hr
+https://tatiana2006.pythonanywhere.com/stream/Azteca%20Uno%20-1hr?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -2hr" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Azteca Uno -2hr
+https://tatiana2006.pythonanywhere.com/stream/Azteca%20Uno%20-2hr?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Baby First
+https://tatiana2006.pythonanywhere.com/stream/Baby%20First?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",BBC World News
+https://tatiana2006.pythonanywhere.com/stream/BBC%20World%20News?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Bloomberg
+https://tatiana2006.pythonanywhere.com/stream/Bloomberg?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 14
+https://tatiana2006.pythonanywhere.com/stream/Canal%2014?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Monterrey" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Canal 4 Monterrey
+https://tatiana2006.pythonanywhere.com/stream/Canal%204%20Monterrey?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",France24
+https://tatiana2006.pythonanywhere.com/stream/France24?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",History 2
+https://tatiana2006.pythonanywhere.com/stream/History%202?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Hi! Sports" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Hi! Sports
+https://tatiana2006.pythonanywhere.com/stream/Hi%21%20Sports?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Vegas Stats Information Network (Vsin)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Vegas Stats Information Network (Vsin)
+https://tatiana2006.pythonanywhere.com/stream/Vegas%20Stats%20Information%20Network%20%28Vsin%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 53 UANL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CANAL 53 UANL
+https://tatiana2006.pythonanywhere.com/stream/CANAL%2053%20UANL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="RT Español" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",RT Español
+https://tatiana2006.pythonanywhere.com/stream/RT%20Espa%C3%B1ol?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="RT Internacional" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",RT Internacional
+https://tatiana2006.pythonanywhere.com/stream/RT%20Internacional?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Aljazeera
+https://tatiana2006.pythonanywhere.com/stream/Aljazeera?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Curiosity Stream English" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",Curiosity Stream English
+https://tatiana2006.pythonanywhere.com/stream/Curiosity%20Stream%20English?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TOROLE TV
+https://tatiana2006.pythonanywhere.com/stream/TOROLE%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="POPCORN CENTRAL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",POPCORN CENTRAL
+https://tatiana2006.pythonanywhere.com/stream/POPCORN%20CENTRAL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="PLIM PLIM TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",PLIM PLIM TV
+https://tatiana2006.pythonanywhere.com/stream/PLIM%20PLIM%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="COMBATV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",COMBATV
+https://tatiana2006.pythonanywhere.com/stream/COMBATV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FISHING NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",WORLD FISHING NETWORK
+https://tatiana2006.pythonanywhere.com/stream/WORLD%20FISHING%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="RAI WORLD PREMIUM" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",RAI WORLD PREMIUM
+https://tatiana2006.pythonanywhere.com/stream/RAI%20WORLD%20PREMIUM?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS24" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",RAI NEWS24
+https://tatiana2006.pythonanywhere.com/stream/RAI%20NEWS24?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP LATINO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TRAVEL XP LATINO
+https://tatiana2006.pythonanywhere.com/stream/TRAVEL%20XP%20LATINO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="SHOW BUSINESS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",SHOW BUSINESS
+https://tatiana2006.pythonanywhere.com/stream/SHOW%20BUSINESS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="INTI TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",INTI TV
+https://tatiana2006.pythonanywhere.com/stream/INTI%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS ESPAÑOL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",EURO NEWS ESPAÑOL
+https://tatiana2006.pythonanywhere.com/stream/EURO%20NEWS%20ESPA%C3%91OL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="KIDOO TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",KIDOO TV
+https://tatiana2006.pythonanywhere.com/stream/KIDOO%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="DUCK TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",DUCK TV
+https://tatiana2006.pythonanywhere.com/stream/DUCK%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO AL AIRE LIBRE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MEXICO AL AIRE LIBRE
+https://tatiana2006.pythonanywhere.com/stream/MEXICO%20AL%20AIRE%20LIBRE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",LOVE NATURE
+https://tatiana2006.pythonanywhere.com/stream/LOVE%20NATURE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",HLN
+https://tatiana2006.pythonanywhere.com/stream/HLN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",NHK WORLD
+https://tatiana2006.pythonanywhere.com/stream/NHK%20WORLD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CCTV4
+https://tatiana2006.pythonanywhere.com/stream/CCTV4?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="FIBA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",FIBA
+https://tatiana2006.pythonanywhere.com/stream/FIBA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",EWTN
+https://tatiana2006.pythonanywhere.com/stream/EWTN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CGTN ESPAÑOL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CGTN ESPAÑOL
+https://tatiana2006.pythonanywhere.com/stream/CGTN%20ESPA%C3%91OL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="ESNE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",ESNE
+https://tatiana2006.pythonanywhere.com/stream/ESNE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CBC SPORTS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CBC SPORTS
+https://tatiana2006.pythonanywhere.com/stream/CBC%20SPORTS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",GLOBAL
+https://tatiana2006.pythonanywhere.com/stream/GLOBAL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="WGN9 CHICAGO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",WGN9 CHICAGO
+https://tatiana2006.pythonanywhere.com/stream/WGN9%20CHICAGO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CTV NEWS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CTV NEWS
+https://tatiana2006.pythonanywhere.com/stream/CTV%20NEWS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="CNBC USA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",CNBC USA
+https://tatiana2006.pythonanywhere.com/stream/CNBC%20USA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="NUESTRO CINE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",NUESTRO CINE
+https://tatiana2006.pythonanywhere.com/stream/NUESTRO%20CINE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",MTV LIVE
+https://tatiana2006.pythonanywhere.com/stream/MTV%20LIVE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAX ARGENTINA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",TELEMAX ARGENTINA
+https://tatiana2006.pythonanywhere.com/stream/TELEMAX%20ARGENTINA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="H2 ENGLISH" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",H2 ENGLISH
+https://tatiana2006.pythonanywhere.com/stream/H2%20ENGLISH?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="252 | LIFETIME" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",252 | LIFETIME
+https://tatiana2006.pythonanywhere.com/stream/252%20%7C%20LIFETIME?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="468 | GolTV HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",468 | GolTV HD
+https://tatiana2006.pythonanywhere.com/stream/468%20%7C%20GolTV%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="558 | MGM+" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",558 | MGM+
+https://tatiana2006.pythonanywhere.com/stream/558%20%7C%20MGM%2B?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="559 | MGM+ HITS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",559 | MGM+ HITS
+https://tatiana2006.pythonanywhere.com/stream/559%20%7C%20MGM%2B%20HITS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="560 | MGM+ MARQUEE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",560 | MGM+ MARQUEE
+https://tatiana2006.pythonanywhere.com/stream/560%20%7C%20MGM%2B%20MARQUEE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="511 | HBO LATINO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",511 | HBO LATINO
+https://tatiana2006.pythonanywhere.com/stream/511%20%7C%20HBO%20LATINO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="271 | VICE HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",271 | VICE HD
+https://tatiana2006.pythonanywhere.com/stream/271%20%7C%20VICE%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="546 | PARAMOUNT SHOWTIME WEST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",546 | PARAMOUNT SHOWTIME WEST
+https://tatiana2006.pythonanywhere.com/stream/546%20%7C%20PARAMOUNT%20SHOWTIME%20WEST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="548 | SHOxBET" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",548 | SHOxBET
+https://tatiana2006.pythonanywhere.com/stream/548%20%7C%20SHOxBET?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="550 | SHOWTIME SHOWCASE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",550 | SHOWTIME SHOWCASE
+https://tatiana2006.pythonanywhere.com/stream/550%20%7C%20SHOWTIME%20SHOWCASE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="545 | PARAMOUNT SHOWTIME EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",545 | PARAMOUNT SHOWTIME EAST
+https://tatiana2006.pythonanywhere.com/stream/545%20%7C%20PARAMOUNT%20SHOWTIME%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="503 | HBO SIGNATURE EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",503 | HBO SIGNATURE EAST
+https://tatiana2006.pythonanywhere.com/stream/503%20%7C%20HBO%20SIGNATURE%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="502 | HBO2 EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",502 | HBO2 EAST
+https://tatiana2006.pythonanywhere.com/stream/502%20%7C%20HBO2%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="529 | STARZ EDGE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",529 | STARZ EDGE
+https://tatiana2006.pythonanywhere.com/stream/529%20%7C%20STARZ%20EDGE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="507 | HBO FAMILY EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",507 | HBO FAMILY EAST
+https://tatiana2006.pythonanywhere.com/stream/507%20%7C%20HBO%20FAMILY%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="509 | HBO ZONE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",509 | HBO ZONE
+https://tatiana2006.pythonanywhere.com/stream/509%20%7C%20HBO%20ZONE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="531 | STARZ CINEMA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",531 | STARZ CINEMA
+https://tatiana2006.pythonanywhere.com/stream/531%20%7C%20STARZ%20CINEMA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="212 | NFL NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",212 | NFL NETWORK
+https://tatiana2006.pythonanywhere.com/stream/212%20%7C%20NFL%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="272 | LOGO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",272 | LOGO
+https://tatiana2006.pythonanywhere.com/stream/272%20%7C%20LOGO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="356 | MSNBC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",356 | MSNBC
+https://tatiana2006.pythonanywhere.com/stream/356%20%7C%20MSNBC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="328 | TV ONE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",328 | TV ONE
+https://tatiana2006.pythonanywhere.com/stream/328%20%7C%20TV%20ONE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="329 | BET" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",329 | BET
+https://tatiana2006.pythonanywhere.com/stream/329%20%7C%20BET?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="244 | SYFY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",244 | SYFY
+https://tatiana2006.pythonanywhere.com/stream/244%20%7C%20SYFY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="576 | PLAYBOY TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",576 | PLAYBOY TV
+https://tatiana2006.pythonanywhere.com/stream/576%20%7C%20PLAYBOY%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="207 | ESPN NEWS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",207 | ESPN NEWS
+https://tatiana2006.pythonanywhere.com/stream/207%20%7C%20ESPN%20NEWS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="535 | STARZ ENCORE EAST" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",535 | STARZ ENCORE EAST
+https://tatiana2006.pythonanywhere.com/stream/535%20%7C%20STARZ%20ENCORE%20EAST?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="549 | SHOWTIME EXTREME" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",549 | SHOWTIME EXTREME
+https://tatiana2006.pythonanywhere.com/stream/549%20%7C%20SHOWTIME%20EXTREME?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="357 | CNBC WORLD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",357 | CNBC WORLD
+https://tatiana2006.pythonanywhere.com/stream/357%20%7C%20CNBC%20WORLD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="547 | SHOWTIME 2" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",547 | SHOWTIME 2
+https://tatiana2006.pythonanywhere.com/stream/547%20%7C%20SHOWTIME%202?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="219 | FOX SPORTS 1 (FS1)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",219 | FOX SPORTS 1 (FS1)
+https://tatiana2006.pythonanywhere.com/stream/219%20%7C%20FOX%20SPORTS%201%20%28FS1%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="415 | VIDEOROLA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",415 | VIDEOROLA
+https://tatiana2006.pythonanywhere.com/stream/415%20%7C%20VIDEOROLA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="217 | TENNIS CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",217 | TENNIS CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/217%20%7C%20TENNIS%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="528 | STARZ COMEDY" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",528 | STARZ COMEDY
+https://tatiana2006.pythonanywhere.com/stream/528%20%7C%20STARZ%20COMEDY?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="281 | MOTORTREND" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",281 | MOTORTREND
+https://tatiana2006.pythonanywhere.com/stream/281%20%7C%20MOTORTREND?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="214 | MAVTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",214 | MAVTV
+https://tatiana2006.pythonanywhere.com/stream/214%20%7C%20MAVTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="213 | MLB NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",213 | MLB NETWORK
+https://tatiana2006.pythonanywhere.com/stream/213%20%7C%20MLB%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="010 | ABC MIAMI (WPLG)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",010 | ABC MIAMI (WPLG)
+https://tatiana2006.pythonanywhere.com/stream/010%20%7C%20ABC%20MIAMI%20%28WPLG%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="530 | STARZ IN BLACK HD  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",530 | STARZ IN BLACK HD  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/530%20%7C%20STARZ%20IN%20BLACK%20HD%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="235 | TASTEMADE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",235 | TASTEMADE
+https://tatiana2006.pythonanywhere.com/stream/235%20%7C%20TASTEMADE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="442 | ESTRELLA TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",442 | ESTRELLA TV
+https://tatiana2006.pythonanywhere.com/stream/442%20%7C%20ESTRELLA%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="413 | DISCOVERY EN ESPAÑOL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",413 | DISCOVERY EN ESPAÑOL
+https://tatiana2006.pythonanywhere.com/stream/413%20%7C%20DISCOVERY%20EN%20ESPA%C3%91OL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="260 | WE TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",260 | WE TV
+https://tatiana2006.pythonanywhere.com/stream/260%20%7C%20WE%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="273 | POP TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",273 | POP TV
+https://tatiana2006.pythonanywhere.com/stream/273%20%7C%20POP%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="287 | AMERICAN HEROES CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",287 | AMERICAN HEROES CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/287%20%7C%20AMERICAN%20HEROES%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="435 | NATGEO MUNDO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",435 | NATGEO MUNDO
+https://tatiana2006.pythonanywhere.com/stream/435%20%7C%20NATGEO%20MUNDO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="605 | SPORTSMAN CHANNEL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",605 | SPORTSMAN CHANNEL
+https://tatiana2006.pythonanywhere.com/stream/605%20%7C%20SPORTSMAN%20CHANNEL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="004 | CBS MIAMI (WFOR)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",004 | CBS MIAMI (WFOR)
+https://tatiana2006.pythonanywhere.com/stream/004%20%7C%20CBS%20MIAMI%20%28WFOR%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="007 | FOX MIAMI (WSVN)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",007 | FOX MIAMI (WSVN)
+https://tatiana2006.pythonanywhere.com/stream/007%20%7C%20FOX%20MIAMI%20%28WSVN%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="434 | HOGAR TV by HGTV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",434 | HOGAR TV by HGTV
+https://tatiana2006.pythonanywhere.com/stream/434%20%7C%20HOGAR%20TV%20by%20HGTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="501 | HBO HD EAST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",501 | HBO HD EAST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/501%20%7C%20HBO%20HD%20EAST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="349 | NEWSMAX TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",349 | NEWSMAX TV
+https://tatiana2006.pythonanywhere.com/stream/349%20%7C%20NEWSMAX%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="314 | FAMILY MOVIE CLASSIC (FMC)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",314 | FAMILY MOVIE CLASSIC (FMC)
+https://tatiana2006.pythonanywhere.com/stream/314%20%7C%20FAMILY%20MOVIE%20CLASSIC%20%28FMC%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="082 | BOUNCE TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",082 | BOUNCE TV
+https://tatiana2006.pythonanywhere.com/stream/082%20%7C%20BOUNCE%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="221 | CBS SPORTS NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",221 | CBS SPORTS NETWORK
+https://tatiana2006.pythonanywhere.com/stream/221%20%7C%20CBS%20SPORTS%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="216 | NBA TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",216 | NBA TV
+https://tatiana2006.pythonanywhere.com/stream/216%20%7C%20NBA%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="230 | MAGNOLIA NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",230 | MAGNOLIA NETWORK
+https://tatiana2006.pythonanywhere.com/stream/230%20%7C%20MAGNOLIA%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="320 | SCIENTOLOGY NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",320 | SCIENTOLOGY NETWORK
+https://tatiana2006.pythonanywhere.com/stream/320%20%7C%20SCIENTOLOGY%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="342 | THE GRIO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",342 | THE GRIO
+https://tatiana2006.pythonanywhere.com/stream/342%20%7C%20THE%20GRIO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="204 | HLN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",204 | HLN
+https://tatiana2006.pythonanywhere.com/stream/204%20%7C%20HLN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="536 | STARZ ENCORE WEST  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",536 | STARZ ENCORE WEST  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/536%20%7C%20STARZ%20ENCORE%20WEST%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="552 | SHOWTIME FAMILY ZONE HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",552 | SHOWTIME FAMILY ZONE HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/552%20%7C%20SHOWTIME%20FAMILY%20ZONE%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="354 | CHEDDAR NEWS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",354 | CHEDDAR NEWS
+https://tatiana2006.pythonanywhere.com/stream/354%20%7C%20CHEDDAR%20NEWS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="386 | FUSE MUSIC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",386 | FUSE MUSIC
+https://tatiana2006.pythonanywhere.com/stream/386%20%7C%20FUSE%20MUSIC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="566 | HDNET MOVIES" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",566 | HDNET MOVIES
+https://tatiana2006.pythonanywhere.com/stream/566%20%7C%20HDNET%20MOVIES?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="333 | IFC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",333 | IFC
+https://tatiana2006.pythonanywhere.com/stream/333%20%7C%20IFC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="279 | OWN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",279 | OWN
+https://tatiana2006.pythonanywhere.com/stream/279%20%7C%20OWN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="606 | OUTDOOR CHANNEL HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",606 | OUTDOOR CHANNEL HD
+https://tatiana2006.pythonanywhere.com/stream/606%20%7C%20OUTDOOR%20CHANNEL%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="360 | FOX NEWS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",360 | FOX NEWS
+https://tatiana2006.pythonanywhere.com/stream/360%20%7C%20FOX%20NEWS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="293 | BABYFIRST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",293 | BABYFIRST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/293%20%7C%20BABYFIRST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="425 | BABY TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",425 | BABY TV
+https://tatiana2006.pythonanywhere.com/stream/425%20%7C%20BABY%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="039 | INDEPENDENT MIAMI (WSFL)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",039 | INDEPENDENT MIAMI (WSFL)
+https://tatiana2006.pythonanywhere.com/stream/039%20%7C%20INDEPENDENT%20MIAMI%20%28WSFL%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="264 | BBC AMERICA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",264 | BBC AMERICA
+https://tatiana2006.pythonanywhere.com/stream/264%20%7C%20BBC%20AMERICA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="080 | COZI TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",080 | COZI TV
+https://tatiana2006.pythonanywhere.com/stream/080%20%7C%20COZI%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="364 | INSP" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",364 | INSP
+https://tatiana2006.pythonanywhere.com/stream/364%20%7C%20INSP?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="336 | MTV CLASSIC" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",336 | MTV CLASSIC
+https://tatiana2006.pythonanywhere.com/stream/336%20%7C%20MTV%20CLASSIC?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="259 | FXX" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",259 | FXX
+https://tatiana2006.pythonanywhere.com/stream/259%20%7C%20FXX?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="461 | HITN" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",461 | HITN
+https://tatiana2006.pythonanywhere.com/stream/461%20%7C%20HITN?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="381 | ASPIRE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",381 | ASPIRE
+https://tatiana2006.pythonanywhere.com/stream/381%20%7C%20ASPIRE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="384 | REVOLT" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",384 | REVOLT
+https://tatiana2006.pythonanywhere.com/stream/384%20%7C%20REVOLT?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="387 | RECIPE TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",387 | RECIPE TV
+https://tatiana2006.pythonanywhere.com/stream/387%20%7C%20RECIPE%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="411 | TELEFE (ARG)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",411 | TELEFE (ARG)
+https://tatiana2006.pythonanywhere.com/stream/411%20%7C%20TELEFE%20%28ARG%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="502 | HBO2 HD EAST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",502 | HBO2 HD EAST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/502%20%7C%20HBO2%20HD%20EAST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="503 | HBO SIGNATURE HD EAST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",503 | HBO SIGNATURE HD EAST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/503%20%7C%20HBO%20SIGNATURE%20HD%20EAST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="506 | HBO COMEDY HD EAST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",506 | HBO COMEDY HD EAST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/506%20%7C%20HBO%20COMEDY%20HD%20EAST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="507 | HBO FAMILY EAST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",507 | HBO FAMILY EAST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/507%20%7C%20HBO%20FAMILY%20EAST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="505 | HBO 2 WEST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",505 | HBO 2 WEST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/505%20%7C%20HBO%202%20WEST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="509 | HBO ZONE HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",509 | HBO ZONE HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/509%20%7C%20HBO%20ZONE%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="515 | CINEMAX EAST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",515 | CINEMAX EAST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/515%20%7C%20CINEMAX%20EAST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="516 | CINEMAX WEST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",516 | CINEMAX WEST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/516%20%7C%20CINEMAX%20WEST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="517 | MOREMAX HD((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",517 | MOREMAX HD((AA))
+https://tatiana2006.pythonanywhere.com/stream/517%20%7C%20MOREMAX%20HD%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="519 | ACTIONMAX HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",519 | ACTIONMAX HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/519%20%7C%20ACTIONMAX%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="521 | MOVIEMAX ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",521 | MOVIEMAX ((AA))
+https://tatiana2006.pythonanywhere.com/stream/521%20%7C%20MOVIEMAX%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="444 | PASIONES" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",444 | PASIONES
+https://tatiana2006.pythonanywhere.com/stream/444%20%7C%20PASIONES?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="266 | FYi   ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",266 | FYi   ((AA))
+https://tatiana2006.pythonanywhere.com/stream/266%20%7C%20FYi%20%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="305 | ION EAST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",305 | ION EAST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/305%20%7C%20ION%20EAST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="339 | FUSE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",339 | FUSE
+https://tatiana2006.pythonanywhere.com/stream/339%20%7C%20FUSE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="522 | THRILLERMAX HD  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",522 | THRILLERMAX HD  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/522%20%7C%20THRILLERMAX%20HD%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="537 | STARZ ENCORE CLASSIC  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",537 | STARZ ENCORE CLASSIC  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/537%20%7C%20STARZ%20ENCORE%20CLASSIC%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="538 | STARZ ENCORE WESTERNS  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",538 | STARZ ENCORE WESTERNS  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/538%20%7C%20STARZ%20ENCORE%20WESTERNS%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="539 | STARZ ENCORE SUSPENSE  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",539 | STARZ ENCORE SUSPENSE  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/539%20%7C%20STARZ%20ENCORE%20SUSPENSE%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="551 | SHOWTIME NEXT HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",551 | SHOWTIME NEXT HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/551%20%7C%20SHOWTIME%20NEXT%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="565 | HALLMARK MISTERY ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",565 | HALLMARK MISTERY ((AA))
+https://tatiana2006.pythonanywhere.com/stream/565%20%7C%20HALLMARK%20MISTERY%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="570 | SMITHSONIAN CHANNEL HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",570 | SMITHSONIAN CHANNEL HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/570%20%7C%20SMITHSONIAN%20CHANNEL%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="525 | STARZ EAST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",525 | STARZ EAST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/525%20%7C%20STARZ%20EAST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="526 | STARZ WEST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",526 | STARZ WEST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/526%20%7C%20STARZ%20WEST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="527 | STARZ KIDS & FAMILY HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",527 | STARZ KIDS & FAMILY HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/527%20%7C%20STARZ%20KIDS%20%26%20FAMILY%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="528 | STARZ COMEDY HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",528 | STARZ COMEDY HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/528%20%7C%20STARZ%20COMEDY%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="529 | STARZ EDGE HD  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",529 | STARZ EDGE HD  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/529%20%7C%20STARZ%20EDGE%20HD%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="531 | STARZ CINEMA HD  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",531 | STARZ CINEMA HD  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/531%20%7C%20STARZ%20CINEMA%20HD%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="535 | STARZ ENCORE HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",535 | STARZ ENCORE HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/535%20%7C%20STARZ%20ENCORE%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="540 | STARZ ENCORE BLACK  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",540 | STARZ ENCORE BLACK  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/540%20%7C%20STARZ%20ENCORE%20BLACK%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="417 | CARACOL TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",417 | CARACOL TV
+https://tatiana2006.pythonanywhere.com/stream/417%20%7C%20CARACOL%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="452 | DE PELICULA CLASICO" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",452 | DE PELICULA CLASICO
+https://tatiana2006.pythonanywhere.com/stream/452%20%7C%20DE%20PELICULA%20CLASICO?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="247 | TBS  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",247 | TBS  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/247%20%7C%20TBS%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="245-1 | TNT WEST ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",245-1 | TNT WEST ((AA))
+https://tatiana2006.pythonanywhere.com/stream/245-1%20%7C%20TNT%20WEST%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="245 | TNT EAST  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",245 | TNT EAST  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/245%20%7C%20TNT%20EAST%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="242 | USA NETWORK  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",242 | USA NETWORK  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/242%20%7C%20USA%20NETWORK%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="002 | CBS SPOKANE  (KREM)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",002 | CBS SPOKANE  (KREM)
+https://tatiana2006.pythonanywhere.com/stream/002%20%7C%20CBS%20SPOKANE%20%20%28KREM%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="004 | ABC SPOKANE (KXLY)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",004 | ABC SPOKANE (KXLY)
+https://tatiana2006.pythonanywhere.com/stream/004%20%7C%20ABC%20SPOKANE%20%28KXLY%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="006 | NBC SPOKANE (KHQ)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",006 | NBC SPOKANE (KHQ)
+https://tatiana2006.pythonanywhere.com/stream/006%20%7C%20NBC%20SPOKANE%20%28KHQ%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="028 | FOX SPOKANE (KAYU)" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",028 | FOX SPOKANE (KAYU)
+https://tatiana2006.pythonanywhere.com/stream/028%20%7C%20FOX%20SPOKANE%20%28KAYU%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="231 | RFD-TV" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",231 | RFD-TV
+https://tatiana2006.pythonanywhere.com/stream/231%20%7C%20RFD-TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="307 | NEWSNATION" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",307 | NEWSNATION
+https://tatiana2006.pythonanywhere.com/stream/307%20%7C%20NEWSNATION?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="465 | FOX DEPORTES HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",465 | FOX DEPORTES HD
+https://tatiana2006.pythonanywhere.com/stream/465%20%7C%20FOX%20DEPORTES%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="449 | SONY CINE" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",449 | SONY CINE
+https://tatiana2006.pythonanywhere.com/stream/449%20%7C%20SONY%20CINE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="443 | HISTORY EN ESPAÑOL" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",443 | HISTORY EN ESPAÑOL
+https://tatiana2006.pythonanywhere.com/stream/443%20%7C%20HISTORY%20EN%20ESPA%C3%91OL?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="274 | OVATION" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",274 | OVATION
+https://tatiana2006.pythonanywhere.com/stream/274%20%7C%20OVATION?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="504 | HBO WEST HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",504 | HBO WEST HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/504%20%7C%20HBO%20WEST%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="664 | MARQUEE SPORTS NETWORK" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",664 | MARQUEE SPORTS NETWORK
+https://tatiana2006.pythonanywhere.com/stream/664%20%7C%20MARQUEE%20SPORTS%20NETWORK?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="642 | MONUMENTAL SPORTS NETWORK HD  ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",642 | MONUMENTAL SPORTS NETWORK HD  ((AA))
+https://tatiana2006.pythonanywhere.com/stream/642%20%7C%20MONUMENTAL%20SPORTS%20NETWORK%20HD%20%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="NBA BLAZERS" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",NBA BLAZERS
+https://tatiana2006.pythonanywhere.com/stream/NBA%20BLAZERS?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="520 | 5STARMAX HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",520 | 5STARMAX HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/520%20%7C%205STARMAX%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="625 | WILLOW HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",625 | WILLOW HD
+https://tatiana2006.pythonanywhere.com/stream/625%20%7C%20WILLOW%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="626 | WILLOW XTRA" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",626 | WILLOW XTRA
+https://tatiana2006.pythonanywhere.com/stream/626%20%7C%20WILLOW%20XTRA?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="628 | NESN HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",628 | NESN HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/628%20%7C%20NESN%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="674 | SPACE CITY HOME NETWORK HD" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",674 | SPACE CITY HOME NETWORK HD
+https://tatiana2006.pythonanywhere.com/stream/674%20%7C%20SPACE%20CITY%20HOME%20NETWORK%20HD?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="265 | A&E HD ((AA))" tvg-logo="https://w7.pngwing.com/pngs/274/127/png-transparent-television-illustration-icon-retro-tv-electronics-retro-rectangle.png" group-title="HD",265 | A&E HD ((AA))
+https://tatiana2006.pythonanywhere.com/stream/265%20%7C%20A%26E%20HD%20%28%28AA%29%29?token=mi_contraseña_secreta
