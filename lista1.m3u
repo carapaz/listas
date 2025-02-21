@@ -5007,3 +5007,21 @@ https://tatiana2006.pythonanywhere.com/stream/VEN%20%7C%20Venezolana%20de%20Tele
 https://tatiana2006.pythonanywhere.com/stream/VEN%20%7C%20VPItv?token=mi_contraseña_secreta
 #EXTINF:-1 tvg-id="" tvg-name="2MB | Playboy (MX)" tvg-logo="https://od.lk/s/MzlfMzQ1NjIzNTVf/mx_playboy.png" group-title="✔️ TV | LATINOS BAJO INTERNET DISH",2MB | Playboy (MX)
 https://tatiana2006.pythonanywhere.com/stream/2MB%20%7C%20Playboy%20%28MX%29?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Soy Plancha tv" tvg-logo="https://soyplancha.tv/wp-content/uploads/2023/03/cropped-SOY-PLANCHA-LOGO-TV-2019.png" group-title="CANALES EXCLUSIVOS",Soy Plancha tv
+https://tatiana2006.pythonanywhere.com/stream/Soy%20Plancha%20tv?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="Poderosa tv" tvg-logo="" group-title="CANALES EXCLUSIVOS",Poderosa tv
+https://tatiana2006.pythonanywhere.com/stream/Poderosa%20tv?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TELECLASICA TV" tvg-logo="http://teleclasica.com/wp-content/uploads/2025/01/OTHER.png" group-title="CANALES EXCLUSIVOS",TELECLASICA TV
+https://tatiana2006.pythonanywhere.com/stream/TELECLASICA%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV CINE ACCION" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="CANALES EXCLUSIVOS",EXTREMA TV CINE ACCION
+https://tatiana2006.pythonanywhere.com/stream/EXTREMA%20TV%20CINE%20ACCION?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MEGA CINE TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="CANALES EXCLUSIVOS",MEGA CINE TV
+https://tatiana2006.pythonanywhere.com/stream/MEGA%20CINE%20TV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="VIDEOCLUB" tvg-logo="https://videoclub.ar/wp-content/uploads/2024/11/cropped-Logo-VideoClub-Blanco.jpg" group-title="CANALES EXCLUSIVOS",VIDEOCLUB
+https://tatiana2006.pythonanywhere.com/stream/VIDEOCLUB?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="MULTIVISION CABLE" tvg-logo="" group-title="CANALES EXCLUSIVOS",MULTIVISION CABLE
+https://tatiana2006.pythonanywhere.com/stream/MULTIVISION%20CABLE?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="RETROXTV" tvg-logo="" group-title="CANALES EXCLUSIVOS",RETROXTV
+https://tatiana2006.pythonanywhere.com/stream/RETROXTV?token=mi_contraseña_secreta
+#EXTINF:-1 tvg-id="" tvg-name="TELEPOSADAS" tvg-logo="" group-title="CANALES EXCLUSIVOS",TELEPOSADAS
+https://tatiana2006.pythonanywhere.com/stream/TELEPOSADAS?token=mi_contraseña_secreta
